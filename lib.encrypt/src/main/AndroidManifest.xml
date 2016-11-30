@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="net.robinx.lib.encrypt">
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+
+    <application android:allowBackup="true"
+        >
+
+    </application>
+
+</manifest>
